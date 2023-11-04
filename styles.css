@@ -228,6 +228,13 @@ main{
     .opening>p{
         width: 100%;
         text-align: justify;
+        font-size: 20px;
+    }
+    .opening>h1{
+        font-size: 25px;
+    }
+    .opening>img{
+        width: 91%;
     }
     .features-con{
         width: 100%;
